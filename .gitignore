@@ -1,0 +1,52 @@
+# Compilados de Kotlin / Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de log
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.swp
+*.swo
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Kotlin build
+build/
+bin/
+
+# Archivos de caché
+*.cache
+*.lock
+
+# Archivos de ejecución
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Archivos de pruebas
+test-output/
+
+# Archivos del sistema operativo
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Archivos de entorno
+.env
