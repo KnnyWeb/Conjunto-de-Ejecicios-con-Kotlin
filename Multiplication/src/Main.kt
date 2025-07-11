@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 //Write a program to input a number from user and print multiplication table of the given number
 //Write a number to set the limit for the multiplication table.
 fun main() {
@@ -12,6 +10,4 @@ fun main() {
         println("$tableNumberMultiplicationNumber * $i = ${ tableNumberMultiplicationNumber * i}")
         i++
     }
-
-
 }
